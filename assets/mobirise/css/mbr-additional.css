@@ -1409,6 +1409,7 @@ body {
 }
 .cid-qIA6vViZjm .section-text {
   padding: 2rem 0;
+  color: #232323;
 }
 .cid-qIA6vViZjm .inner-container {
   margin: 0 auto;
@@ -1638,6 +1639,26 @@ body {
 .cid-qIAHf2wPzr H2 {
   color: #ffffff;
 }
+.cid-qIAhCJM0ai {
+  background: #ffffff;
+}
+.cid-qIAhCJM0ai .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-qIAhCJM0ai figcaption {
+  position: relative;
+}
+.cid-qIAhCJM0ai figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qIAhCJM0ai .image-block {
+    width: 100% !important;
+  }
+}
 .cid-qIAtrj3c55 {
   padding-top: 120px;
   padding-bottom: 90px;
@@ -1814,26 +1835,6 @@ body {
 .cid-qIAIa0BgIF B {
   color: #ffffff;
 }
-.cid-qIAhCJM0ai {
-  background: #ffffff;
-}
-.cid-qIAhCJM0ai .image-block {
-  margin: auto;
-  width: 100% !important;
-}
-.cid-qIAhCJM0ai figcaption {
-  position: relative;
-}
-.cid-qIAhCJM0ai figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qIAhCJM0ai .image-block {
-    width: 100% !important;
-  }
-}
 .cid-qIAHxYLhhg {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1919,41 +1920,6 @@ body {
 @media (max-width: 380px) {
   .cid-qIAHxYLhhg .period {
     font-size: 0.8rem;
-  }
-}
-.cid-qIAwAuQqeD {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/sam-822-2800x1866.jpg");
-}
-.cid-qIAi3eyHl2 {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-qIAi3eyHl2 .mbr-text,
-.cid-qIAi3eyHl2 blockquote {
-  color: #767676;
-}
-.cid-qIAjcd5eXM {
-  background: #ffffff;
-  background: linear-gradient(0deg, #149dcc, #ffffff);
-}
-.cid-qIAjcd5eXM .image-block {
-  margin: auto;
-  width: 100% !important;
-}
-.cid-qIAjcd5eXM figcaption {
-  position: relative;
-}
-.cid-qIAjcd5eXM figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qIAjcd5eXM .image-block {
-    width: 100% !important;
   }
 }
 .cid-qIAxxmjYCj {
