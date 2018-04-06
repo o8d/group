@@ -326,7 +326,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-772x1080.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -345,7 +345,7 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/-960x960.jpg",
                 "active": false,
-                "showButtons": true,
+                "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
@@ -362,7 +362,7 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/29792662-2102449520031161-3827416520502280192-o-1616x1080.jpg",
                 "active": false,
-                "showButtons": true,
+                "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
@@ -380,7 +380,7 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/14124953-630038477173774-740967778763092866-o-1-1702x630.jpg",
                 "active": false,
-                "showButtons": true,
+                "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
@@ -398,7 +398,7 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/15419542-1809754099266753-4955480826609491914-o-2000x1125.jpg",
                 "active": false,
-                "showButtons": true,
+                "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
@@ -416,7 +416,7 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-28-2000x1128.jpg",
                 "active": false,
-                "showButtons": true,
+                "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
@@ -433,8 +433,8 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/29790175-572859016409075-6198002816732648131-n-960x720.jpg",
-                "active": false,
-                "showButtons": true,
+                "active": true,
+                "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
