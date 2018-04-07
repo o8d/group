@@ -1372,6 +1372,14 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
+.cid-qOzmGy0qGE {
+  padding-top: 120px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/mbr-772x1080.jpg");
+}
+.cid-qOzmGy0qGE .mbr-section-subtitle {
+  text-align: center;
+}
 .cid-qNt40mj2aP .modal-body .close {
   background: #1b1b1b;
 }
