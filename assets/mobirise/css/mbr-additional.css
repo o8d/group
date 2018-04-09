@@ -2177,25 +2177,6 @@ body {
 .cid-qOEmgB2CBn .card-wrapper {
   height: 100%;
 }
-.cid-qOJnPH3SwS {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-@media (min-width: 992px) {
-  .cid-qOJnPH3SwS .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 992px) {
-  .cid-qOJnPH3SwS .mbr-figure {
-    padding-top: 1rem;
-  }
-}
-.cid-qOJnPH3SwS .mbr-text {
-  color: #232323;
-  text-align: left;
-}
 .cid-qOJq7RYwZ1 {
   padding-top: 15px;
   padding-bottom: 0px;
@@ -2205,7 +2186,7 @@ body {
   color: #7bbeda;
 }
 .cid-qOJq7RYwZ1 H2 {
-  color: #55b4d4;
+  color: #149dcc;
 }
 .cid-qOJnQEmWjw {
   padding-top: 60px;
