@@ -1074,7 +1074,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "4/15<br>pm1-3<br><br>幫你梳一個復古美人頭",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white\" href=\"tel:0927-540-858\" data-toolbar=\"-mbrBtnMove\">限量預約梳頭<br></a>  ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white\" href=\"https://docs.google.com/forms/d/1ywH-W0EC3hV8YSuR3PIPuVSbJgpauCHV8lR1_N-UDfc/edit\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">限量預約梳頭<br></a>  ",
                 "overlayOpacity": "0.2"
               }
             ]
@@ -1343,6 +1343,7 @@
           "_name": "gallery1",
           "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#554346\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"1\" mbr-gallery-show-text></div>\n    </div>\n\n</section>",
           "_cid": "qOVQKv16wJ",
+          "_anchor": "gallery1-w",
           "_protectedParams": [
             "text_all",
             "gallery__filtersTextStyle",
@@ -1365,7 +1366,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/2018-04-12-1.06.44-1554x1232-800x634.png",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "圖1.永美美容美髮學校",
+                "caption": "（圖1）永美理電髮美容，第一期師生合影，於民國43年3月。最上排的左邊第一位是14歲的郭素慧。",
                 "active": false
               },
               {
@@ -1377,7 +1378,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/2018-04-12-1.05.01-990x1544-800x1248.png",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "圖2.雲錦電髮院",
+                "caption": "（圖2）雲錦電髮院，休息時間於門口留影。",
                 "active": false
               },
               {
@@ -1389,7 +1390,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/2018-04-12-1.05.38-956x898-800x751.png",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "圖3.美滿第一間",
+                "caption": "圖3.美滿電髮院第一間。",
                 "active": false
               },
               {
@@ -1401,7 +1402,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/2018-04-12-1.05.24-1200x1894-800x1263.png",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "圖4.美滿第一間店",
+                "caption": "圖4.素慧與子女合影於第一間店門口。",
                 "active": false
               },
               {
@@ -1413,7 +1414,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/2018-04-12-1.04.52-1500x1082-800x577.png",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "圖5.美滿第一間店",
+                "caption": "圖5.美滿第一間店的側面招牌，上面的髮型是當時第二名流行的「伊莉莎白頭」款式也稱「小野柳女王頭」，當然第一名就是「美人頭」啦。",
                 "active": false
               },
               {
@@ -1453,8 +1454,7 @@
                 "active": true
               }
             ]
-          },
-          "_anchor": "gallery1-w"
+          }
         },
         {
           "_styles": {
